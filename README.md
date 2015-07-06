@@ -1,0 +1,1 @@
+Used as a means of backing up and restoring the gitconfig file
