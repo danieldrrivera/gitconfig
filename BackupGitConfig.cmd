@@ -1,1 +1,1 @@
-copy %userprofile%\.gitconfig
+copy %userprofile%\.gitconfig D:\Dev\git\.gitconfig
